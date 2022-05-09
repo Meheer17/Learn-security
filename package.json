@@ -7,6 +7,7 @@
 		"start": "nodemon myApp.js"
 	},
 	"dependencies": {
+		"bcrypt": "^5.0.1",
 		"express": "^4.18.1",
 		"fs": "^0.0.1-security",
 		"helmet": "3.21.3",
